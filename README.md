@@ -2,7 +2,7 @@
 
 🔭 I am a software engineer who enjoys developing web applications and working with multimedia, particularly audio and video streaming and processing services.
 
-🌱 I'm always excited to learn new programming languages and technologies, especially when they're needed for a project.
+🌱 I'm always excited to learn new programming languages and technologies, especially when they're needed for a business needs.
 
 👯  I'm interested in collaborating on software projects that involve full-stack development, with a particular focus on backends and multimedia services.
 
